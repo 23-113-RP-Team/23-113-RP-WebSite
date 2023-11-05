@@ -51,7 +51,7 @@
   .fr-view span[style~="color:"] a {
     color: inherit; }
   .fr-view strong {
-    font-weight: 700; }
+    font-weight: 300; }
   .fr-view table[border='0'] td:not([class]), .fr-view table[border='0'] th:not([class]), .fr-view table[border='0'] td[class=""], .fr-view table[border='0'] th[class=""] {
     border-width: 0px; }
   .fr-view table {
@@ -249,7 +249,7 @@
       .fr-view .fr-video.fr-dvi.fr-fvr {
         float: right; }
   .fr-view a.fr-strong {
-    font-weight: 700; }
+    font-weight: 300; }
   .fr-view a.fr-green {
     color: green; }
   .fr-view .fr-img-caption {
@@ -294,7 +294,7 @@
  * Image style.
  */
 a.fr-view.fr-strong {
-  font-weight: 700; }
+  font-weight: 300; }
 a.fr-view.fr-green {
   color: green; }
 
@@ -479,7 +479,7 @@ textarea {
   margin: 0;
 }
 optgroup {
-  font-weight: 700;
+  font-weight: 300;
 }
 button,
 input {
@@ -38186,14 +38186,14 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-table-alt-custom-color-6 tr:nth-child(even)
         {
             color: #111111;
-            background-color: #82CD47;
+            background-color: darkseagreen;
         }
 
         .u-button-style.u-custom-color-6,
         .u-button-style.u-custom-color-6[class*="u-border-"]
         {
             color: #111111 !important;
-            background-color: #82CD47 !important;
+            background-color: darkseagreen !important;
         }
 
         .u-button-style.u-custom-color-6:hover,
@@ -38233,11 +38233,11 @@ a.u-link.u-text-hover-grey-90:hover {
         li.active > a.u-button-style.u-button-style.u-active-custom-color-6[class*="u-border-"]
         {
             color: #111111 !important;
-            background-color: #82CD47 !important;
+            background-color: darkseagreen !important;
         }
 
         a.u-link.u-hover-custom-color-6:hover {
-            color: #82CD47 !important;
+            color: darkseagreen !important;
         }
 
         
@@ -38552,14 +38552,14 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-border-custom-color-6,
         .u-separator-custom-color-6:after
         {
-            border-color: #82CD47;
-            stroke: #82CD47;
+            border-color: darkseagreen;
+            stroke: darkseagreen;
         }
 
         .u-button-style.u-border-custom-color-6
         {
-            border-color: #82CD47 !important;
-            color: #82CD47 !important;
+            border-color: darkseagreen !important;
+            color: darkseagreen !important;
             background-color: transparent !important;
         }
 
@@ -38582,13 +38582,13 @@ a.u-link.u-text-hover-grey-90:hover {
         a.u-button-style.u-button-style.active > .u-border-active-custom-color-6,
         li.active > a.u-button-style.u-button-style.u-border-active-custom-color-6
         {
-            color: #82CD47 !important;
-            border-color: #82CD47 !important;
+            color: darkseagreen !important;
+            border-color: darkseagreen !important;
         }
 
         .u-link.u-border-custom-color-6[class*="u-border-"]
         {
-            border-color: #82CD47 !important;
+            border-color: darkseagreen !important;
         }
 
         .u-link.u-border-custom-color-6[class*="u-border-"]:hover
@@ -38987,7 +38987,7 @@ a.u-link.u-text-hover-grey-90:hover {
         a.u-button-style.u-text-custom-color-6,
         a.u-button-style.u-text-custom-color-6[class*="u-border-"]
         {
-            color: #82CD47 !important;
+            color: darkseagreen !important;
         }
 
         a.u-button-style.u-text-custom-color-6:hover,
@@ -39025,7 +39025,7 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-popupmenu-items.u-text-hover-custom-color-6 .u-nav-link:hover,
         .u-popupmenu-items.u-popupmenu-items.u-text-active-custom-color-6 .u-nav-link.active
         {
-            color: #82CD47 !important;
+            color: darkseagreen !important;
         }
 
         .u-text-custom-color-6 .u-svg-link,
@@ -39034,7 +39034,7 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-button-style.u-button-style.active > .u-text-active-custom-color-6 .u-svg-link,
         .u-text-hover-custom-color-6:focus .u-svg-link
         {
-            fill: #82CD47;
+            fill: darkseagreen;
         }
 
         .u-link.u-text-custom-color-6:hover
@@ -39044,7 +39044,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
         a.u-link.u-text-hover-custom-color-6:hover
         {
-            color: #82CD47 !important;
+            color: darkseagreen !important;
         }
         
         
@@ -39508,7 +39508,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-nav-1 {
-  font-weight: 700;
+  font-weight: 300;
   font-size: 1rem;
   letter-spacing: 1px;
 }
